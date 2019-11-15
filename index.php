@@ -127,7 +127,7 @@
 
 </form> 
 <div id="img">
-<img src="kuma.png" >
+<img src="./images/kuma.png" >
 </div>
 
 </body>
